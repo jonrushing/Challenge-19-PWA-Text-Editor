@@ -9,17 +9,17 @@
   - [Questions](#questions)
   
   ## Description <a name="description"></a>
-  Love to read? Do you have too many books you want to get to? Why not use this app to find some books and save them! This app is a great tool for the
-  book worms out there that want to make a digtial list of things to read!
+  Let's go back to the basics of computing with a simple text editor. Spend hours typing line after line of text. Best of all no constant internet 
+  connection needed! Utlizing PWAs you don't need a constant internet connection to type to your hearts content.
   
   ## Installation <a name="installation"></a>
-  No installation needed just click the deployed link!
+  Just click the deployed link and click install!
   
   ## License <a name="license"></a>
   [For more information about the license click here](https://choosealicense.com/licenses/mit/)
   
   ## Usage <a name="usage"></a>
-  Sign up and log in. once your logged in start searching for your favorite book and save them for later!
+  Start typing right away. click install to type offline.
   
   ## Contribution <a name="contributing"></a>
   The repo is public so all are welcome to contribute if you’d like. Let me know if you’d like to help!
@@ -33,6 +33,8 @@
 
   ## Screenshots:
  
-  
+  ![](screenshots/1.png)
 
   ## Deployment Link:
+  
+  https://intense-bastion-61128.herokuapp.com/
